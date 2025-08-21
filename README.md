@@ -1,4 +1,4 @@
-# Hi there, I'm Cefras José 👋
+# Hello there, I'm Cefras José 👋
 
 💻 Backend Developer | 📊 Data Analyst | 🌍 Fluent in English  
 Passionate about building scalable systems, data-driven solutions, and exploring emerging technologies.  
