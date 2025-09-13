@@ -22,8 +22,14 @@ Passionate about building scalable systems, data-driven solutions, and exploring
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
   
 
-### Secondary Stack  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-143?style=for-the-badge&logo=verilog&logoColor=white&color=red)  
+### Secondary Stack
+<div style="display: flex; align-items: center; gap: 4px;">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SystemVerilog-143?style=for-the-badge&logo=verilog&logoColor=white&color=red" alt="SystemVerilog" />
+</div>
  
 
 ### Data Science & Analytics  
@@ -66,6 +72,6 @@ Passionate about building scalable systems, data-driven solutions, and exploring
 
 <div align="center">
 
-✨ *“Technology should not only solve problems, but create opportunities and transform realities.”* ✨  
+✨ *"Technology should not only solve problems, but create opportunities and transform realities."* ✨  
 
 </div>
