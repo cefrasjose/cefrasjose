@@ -23,7 +23,7 @@ Passionate about building scalable systems, data-driven solutions, and exploring
   
 
 ### Secondary Stack  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-143?style=for-the-badge&logo=verilog&logoColor=white&color=red)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-143?style=for-the-badge&logo=verilog&logoColor=white&color=red)  
  
 
 ### Data Science & Analytics  
