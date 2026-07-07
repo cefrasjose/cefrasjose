@@ -56,11 +56,6 @@ Passionate about building scalable systems, data-driven solutions, and exploring
 ### Hardware / Networking  
 🖥️ Computer Assembly & Maintenance | 🌐 Networking Setup & Troubleshooting | 🛠️ IT Support  
 
----
-
-## 📊 GitHub Stats
-
-![Cefras GitHub stats](https://github-readme-stats.vercel.app/api?username=cefrasjose&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cefrasjose&layout=compact&theme=tokyonight)](https://github.com/cefrasjose/github-readme-stats)
 
 ---
 
